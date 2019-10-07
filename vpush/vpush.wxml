@@ -1,0 +1,5 @@
+<form report-submit bindsubmit='vPushHandler'>
+  <button form-type='submit' class="open-button">
+    <slot />
+  </button>
+</form>

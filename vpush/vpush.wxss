@@ -1,0 +1,16 @@
+/* opentype的button样式 */
+
+.open-button {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  display: inline;
+  border: 0;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 0;
+  color: transparent;
+  text-align: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
