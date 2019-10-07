@@ -1,0 +1,6 @@
+1.引入组件 自己的路径
+"vpush": "../../component/vpush/vpush",
+2.使用组件 包在需要点击的view外面就行
+<vpush>
+   <view class='item-text'>{{item.text}}</view>
+</vpush>
